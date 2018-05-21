@@ -1,8 +1,6 @@
 # kevBreakout
 A simple ncurses-based breakout game written in C
 
-by Kevin Witmer 2017
-
 --------------------------------------------------
 
 To compile:
